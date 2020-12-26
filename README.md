@@ -1,5 +1,8 @@
 # DataTables.NetStandard.TemplateMapper
 
+**DEPRECATION WARNING: This package is not maintained anymore. The provided APIs are very easy to add to any application directly though.
+Just have a look at the source and add them, probably using the newest version of utilized packages like [`scriban`](https://github.com/scriban/scriban).**
+
 This package provides an optional template mapping utility which allows to render HTML columns
 when using [DataTables.NetStandard](https://github.com/Namoshek/DataTables.NetStandard).
 
